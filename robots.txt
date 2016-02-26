@@ -1,0 +1,5 @@
+User-agent: *
+
+#Sitemap: http://www.nsmon.ru/sitemap.xml
+Host: www.nsmon.ru
+#EOF
